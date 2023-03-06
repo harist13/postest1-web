@@ -1,7 +1,7 @@
 # Web departemen eksternal
 NAMA : MUHAMMAD HARIST ILLYASA
 
-NIM    : 2109116101
+NIM     : 2109116101
 
 KELAS  : C1
 
