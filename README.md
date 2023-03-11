@@ -5,7 +5,9 @@ NIM     : 2109116101
 
 KELAS  : C1
 
-dalam website eksternal terdiri dari 6 halaman yaitu home, about, divisi(hubungan luar lembaga dan sosmas), contact us
+web yang saya buat ini adalah tentang web departemen eksternal supaya mengetahui apa saja divisi, anggota dan kegiatan yang ada di dalam web ini
+
+dalam website eksternal terdiri dari 5 halaman yaitu home, about, divisi(hubungan luar lembaga dan sosmas), contact us
 
 1. halaman home
 
